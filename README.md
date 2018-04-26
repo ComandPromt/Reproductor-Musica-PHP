@@ -8,7 +8,7 @@
 
 - Meter dentro de las carpetas creadas anteriormente tantas carpetas como álbumes queramos almacenar
 
-- Dentro de cada álbum metemos las diferentes canciones (NO IMPORTA EL NOMBRE, pues el programa lo renombra)
+- Dentro de cada álbum metemos las diferentes canciones en mp3 (NO IMPORTA EL NOMBRE DE LAS CANCIONES, pues el programa lo renombra)
 
 ## Imágenes
 
