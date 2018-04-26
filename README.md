@@ -2,9 +2,9 @@
 
 ## Gerarquía de carpetas para almacenar la música
 
-- Crear carpeta llamada musica en la raíz del proyecto
+- Crear una carpeta llamada musica en la raíz del proyecto
 
-- Dentro de LA carpeta música creas tantas carpetas como artistas quieras meter
+- Dentro de la carpeta música creas tantas carpetas como artistas quieras meter
 
 - Meter dentro de las carpetas creadas anteriormente tantas carpetas como álbumes queramos almacenar
 
@@ -12,7 +12,7 @@
 
 ## Imágenes
 
-- Crear carpeta llamada imagenes en la raíz del proyecto
+- Crear una carpeta llamada imagenes en la raíz del proyecto
 
 - Meter las imágenes (EN JPG) de los diferentes artistas (las imágenes se tienen que llamar igual que los artistas, es decir, cada una de las carpetas que tenemos dentro de la carpeta musica)
 
