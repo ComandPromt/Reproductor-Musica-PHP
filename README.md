@@ -1,7 +1,3 @@
-# Reproductor-Musica-PHP
-
-# EL PROGRAMA ES DINÁMICO SIGUIENDO ESTOS PASOS
-
 # Requisitos
 
 ## Gerarquía de carpetas para almacenar la música
