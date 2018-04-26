@@ -19,3 +19,5 @@
 ## Nota: Si la lista de reproducción sale pequeña es porque tenemos una carpeta con pocas canciones (menos de 5 canciones)
 
 ## Solución: Hacer una carpeta con música variada
+
+## Se puede ejecutar el programa una vez descargado, pues te crea la carpeta musica y la carpeta imagenes
