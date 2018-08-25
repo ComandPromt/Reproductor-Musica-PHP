@@ -1,5 +1,16 @@
 <?php
 
+function comprobarcadena($cadena){
+
+	if(substr($cadena,2,strlen($cadena))==". mp3"){
+		$cadena=substr($cadena,0,2)." - music.mp3";
+	}
+	if(substr($cadena,3,strlen($cadena))==". mp3"){
+		$cadena=substr($cadena,0,3)." - music.mp3";
+	}
+return $cadena;
+}
+
 function eliminar_numeros_espacios_y_primer_punto($cadena){
 	
 	$cortar=0;
