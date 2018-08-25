@@ -74,6 +74,7 @@ for($y=0;$y<count($artistas);$y++){
 						if(substr($nuevonombre[$z],strlen(substr($nuevonombre[$z],0,-6)),-4)=="  "){
 							$nuevonombre[$z]=substr($nuevonombre[$z],0,-6).".mp3";
 						}
+						$nuevonombre[$z]=comprobarcadena($nuevonombre[$z]);
 						rename($ruta.$canciones[$z],$ruta.$nuevonombre[$z]);
 					}
 				}	 
