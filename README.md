@@ -1,3 +1,5 @@
+![Preview](previews/1.png)
+
 # Requisitos
 
 ## Gerarquía de carpetas para almacenar la música
